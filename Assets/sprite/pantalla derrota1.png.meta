@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: b2cf55f47d25f1443a3589587ccb0697
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7490487787341784356
+    second: pantalla derrota1_0
+  - first:
+      213: -2566226133500362645
+    second: pantalla derrota1_1
+  - first:
+      213: 6519772200905674703
+    second: pantalla derrota1_2
+  - first:
+      213: -5149887194416451330
+    second: pantalla derrota1_3
+  - first:
+      213: -1178801205382339818
+    second: pantalla derrota1_4
+  - first:
+      213: -5837810036798788704
+    second: pantalla derrota1_5
+  - first:
+      213: -9206202560711083007
+    second: pantalla derrota1_6
+  - first:
+      213: 7958620650427292079
+    second: pantalla derrota1_7
+  - first:
+      213: -7563762063907798876
+    second: pantalla derrota1_8
+  - first:
+      213: 7005773127883756771
+    second: pantalla derrota1_9
+  - first:
+      213: -7330970995584439502
+    second: pantalla derrota1_10
+  - first:
+      213: 4743345028585769373
+    second: pantalla derrota1_11
+  - first:
+      213: -2991912888831987090
+    second: pantalla derrota1_12
+  - first:
+      213: 218833266388561615
+    second: pantalla derrota1_13
+  - first:
+      213: -5096739864496170376
+    second: pantalla derrota1_14
+  - first:
+      213: -1731782204486990603
+    second: pantalla derrota1_15
+  - first:
+      213: -2848526767695519530
+    second: pantalla derrota1_16
+  - first:
+      213: -3527294082939738980
+    second: pantalla derrota1_17
+  - first:
+      213: 4402364558022639029
+    second: pantalla derrota1_18
+  - first:
+      213: 3778297854700413829
+    second: pantalla derrota1_19
+  - first:
+      213: -3236290190591503515
+    second: pantalla derrota1_20
+  - first:
+      213: -5029374210672937214
+    second: pantalla derrota1_21
+  - first:
+      213: -2436961135650067994
+    second: pantalla derrota1_22
+  - first:
+      213: -856973693057540013
+    second: pantalla derrota1_23
+  - first:
+      213: 5179079268266490877
+    second: pantalla derrota1_24
+  - first:
+      213: 3272820199642930175
+    second: pantalla derrota1_25
+  - first:
+      213: 2850427282336897711
+    second: pantalla derrota1_26
+  - first:
+      213: 3962720547124207700
+    second: pantalla derrota1_27
+  - first:
+      213: -5587508807488723550
+    second: pantalla derrota1_28
+  - first:
+      213: -3275243859547085866
+    second: pantalla derrota1_29
+  - first:
+      213: -1972688871016206028
+    second: pantalla derrota1_30
+  - first:
+      213: 8775605833066008813
+    second: pantalla derrota1_31
+  - first:
+      213: 5768967998826015412
+    second: pantalla derrota1_32
+  - first:
+      213: 5937608570871293623
+    second: pantalla derrota1_33
+  - first:
+      213: 5610474066066172031
+    second: pantalla derrota1_34
+  - first:
+      213: 8130701745804204661
+    second: pantalla derrota1_35
+  - first:
+      213: -7789934498366158639
+    second: pantalla derrota1_36
+  - first:
+      213: 5376053688489644246
+    second: pantalla derrota1_37
+  - first:
+      213: 2887802720679170095
+    second: pantalla derrota1_38
+  - first:
+      213: 8891093536658924382
+    second: pantalla derrota1_39
+  - first:
+      213: 1790067287549760751
+    second: pantalla derrota1_40
+  - first:
+      213: -2542212744645341881
+    second: pantalla derrota1_41
+  - first:
+      213: -4746513683780267667
+    second: pantalla derrota1_42
+  - first:
+      213: 3846247322281753876
+    second: pantalla derrota1_43
+  - first:
+      213: -6265986835577698084
+    second: pantalla derrota1_44
+  - first:
+      213: -2448179106376451450
+    second: pantalla derrota1_45
+  - first:
+      213: -5753302926585018025
+    second: pantalla derrota1_46
+  - first:
+      213: -513802196215301657
+    second: pantalla derrota1_47
+  - first:
+      213: -7802484216655519314
+    second: pantalla derrota1_48
+  - first:
+      213: -4037028617475811287
+    second: pantalla derrota1_49
+  - first:
+      213: -1210163461379818768
+    second: pantalla derrota1_50
+  - first:
+      213: -1018930215345700454
+    second: pantalla derrota1_51
+  - first:
+      213: 6350050720156012207
+    second: pantalla derrota1_52
+  - first:
+      213: 6796782753638544711
+    second: pantalla derrota1_53
+  - first:
+      213: 1250695316043382416
+    second: pantalla derrota1_54
+  - first:
+      213: -8490990423947002469
+    second: pantalla derrota1_55
+  - first:
+      213: 7945573086898135603
+    second: pantalla derrota1_56
+  - first:
+      213: 4157372250512415511
+    second: pantalla derrota1_57
+  - first:
+      213: -4711452249776180184
+    second: pantalla derrota1_58
+  - first:
+      213: -2296660467362523425
+    second: pantalla derrota1_59
+  - first:
+      213: 2124406737605275769
+    second: pantalla derrota1_60
+  - first:
+      213: -1722492706228591176
+    second: pantalla derrota1_61
+  - first:
+      213: 1413031786807164419
+    second: pantalla derrota1_62
+  - first:
+      213: -3608601998166562846
+    second: pantalla derrota1_63
+  - first:
+      213: 6317825169176680272
+    second: pantalla derrota1_64
+  - first:
+      213: -6165127568648274069
+    second: pantalla derrota1_65
+  - first:
+      213: 6232149700025042765
+    second: pantalla derrota1_66
+  - first:
+      213: -6075361108246851061
+    second: pantalla derrota1_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pantalla derrota1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 368
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a8eec4fe83f760800000000000000
+      internalID: 7490487787341784356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1425
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6003639deee26cd0800000000000000
+      internalID: -2566226133500362645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1455
+        width: 67
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf03730642ea7a50800000000000000
+      internalID: 6519772200905674703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 801
+        width: 324
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef07977c1ece788b0800000000000000
+      internalID: -5149887194416451330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1284
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613226c9c8e04afe0800000000000000
+      internalID: -1178801205382339818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1196
+        width: 166
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe56a93beebfea0800000000000000
+      internalID: -5837810036798788704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1190
+        width: 193
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c368e2c8ffc3080800000000000000
+      internalID: -9206202560711083007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1207
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99ec2a053b27e60800000000000000
+      internalID: 7958620650427292079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1081
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a043373a7e180790800000000000000
+      internalID: -7563762063907798876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 967
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e41d78aa81893160800000000000000
+      internalID: 7005773127883756771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 967
+        width: 162
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b6f7d78b8234a90800000000000000
+      internalID: -7330970995584439502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 967
+        width: 130
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9948f31c2fb3d140800000000000000
+      internalID: 4743345028585769373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 967
+        width: 149
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b14654179a76d0800000000000000
+      internalID: -2991912888831987090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1126
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee02442b3790300800000000000000
+      internalID: 218833266388561615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1066
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1220d81eb449b0800000000000000
+      internalID: -5096739864496170376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1013
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c539a24977f7e0800000000000000
+      internalID: -1731782204486990603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_16
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d021563ffff778d0800000000000000
+      internalID: -2848526767695519530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_17
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1007
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c942a0058b88c0fc0800000000000000
+      internalID: -3527294082939738980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 964
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd75b4ad37581d30800000000000000
+      internalID: 4402364558022639029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_19
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 959
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e90d61e53f6430800000000000000
+      internalID: 3778297854700413829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_20
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 933
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56356bfd7336613d0800000000000000
+      internalID: -3236290190591503515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 854
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207345a5dc2143ab0800000000000000
+      internalID: -5029374210672937214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 855
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9252a32cc2e2ed0800000000000000
+      internalID: -2436961135650067994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 855
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350637377fa6b14f0800000000000000
+      internalID: -856973693057540013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 854
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3d909729cfd740800000000000000
+      internalID: 5179079268266490877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 853
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9075a1a46b6d20800000000000000
+      internalID: 3272820199642930175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 854
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faad5c5d280ce8720800000000000000
+      internalID: 2850427282336897711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 855
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450ea7b97596ef630800000000000000
+      internalID: 3962720547124207700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_28
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 853
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5a44ee75e2572b0800000000000000
+      internalID: -5587508807488723550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_29
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 919
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3aaee001ffb82d0800000000000000
+      internalID: -3275243859547085866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43176be6ce99f94e0800000000000000
+      internalID: -1972688871016206028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 795
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0deb0920739c970800000000000000
+      internalID: 8775605833066008813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_32
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 833
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baee9264dd7f0050800000000000000
+      internalID: 5768967998826015412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_33
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 815
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62912598f966250800000000000000
+      internalID: 5937608570871293623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 739
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786a6100786cdd40800000000000000
+      internalID: 5610474066066172031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_35
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 700
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ade45d82e06d070800000000000000
+      internalID: 8130701745804204661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 726
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d80359b8d794e390800000000000000
+      internalID: -7789934498366158639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 633
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d09adb98549b9a40800000000000000
+      internalID: 5376053688489644246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 589
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201d733649831820800000000000000
+      internalID: 2887802720679170095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 165
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53a35de672836b70800000000000000
+      internalID: 8891093536658924382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 444
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4537eb6b897d810800000000000000
+      internalID: 1790067287549760751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 351
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d81fb5afe38bcd0800000000000000
+      internalID: -2542212744645341881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 274
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611fb4e3fef02eb0800000000000000
+      internalID: -4746513683780267667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 343
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db6e2bf8d906530800000000000000
+      internalID: 3846247322281753876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 314
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd80e12fb2eba09a0800000000000000
+      internalID: -6265986835577698084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af5e1e212560ed0800000000000000
+      internalID: -2448179106376451450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_46
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 334
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594fa778792820b0800000000000000
+      internalID: -5753302926585018025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_47
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 458
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e975c1ff9b9ed8f0800000000000000
+      internalID: -513802196215301657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_48
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 251
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1e7acb1f108b390800000000000000
+      internalID: -7802484216655519314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928944b8cd799f7c0800000000000000
+      internalID: -4037028617475811287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_50
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 143
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7c4c5eb2a43fe0800000000000000
+      internalID: -1210163461379818768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_51
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 191
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91486f1e580cd1f0800000000000000
+      internalID: -1018930215345700454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faecc986c79ef1850800000000000000
+      internalID: 6350050720156012207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 151
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745702e47e5035e50800000000000000
+      internalID: 6796782753638544711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 131
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb20373cc5b5110800000000000000
+      internalID: 1250695316043382416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 125
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d35655231f92a80800000000000000
+      internalID: -8490990423947002469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332a77500a8544e60800000000000000
+      internalID: 7945573086898135603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bdbdef804f1b930800000000000000
+      internalID: 4157372250512415511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82430e3242f8d9eb0800000000000000
+      internalID: -4711452249776180184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd69c21297f9020e0800000000000000
+      internalID: -2296660467362523425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_60
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 85
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b8691ca86b7d10800000000000000
+      internalID: 2124406737605275769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 79
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52b05820a7818e0800000000000000
+      internalID: -1722492706228591176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef9fc6ce81c9310800000000000000
+      internalID: 1413031786807164419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 79
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e764831a9babedc0800000000000000
+      internalID: -3608601998166562846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 86
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575cc1a48c6da750800000000000000
+      internalID: 6317825169176680272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f70cbf321117aa0800000000000000
+      internalID: -6165127568648274069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_66
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 79
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47cc01022b0d7650800000000000000
+      internalID: 6232149700025042765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla derrota1_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0219bcb24bffaba0800000000000000
+      internalID: -6075361108246851061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pantalla derrota1_0: 7490487787341784356
+      pantalla derrota1_1: -2566226133500362645
+      pantalla derrota1_10: -7330970995584439502
+      pantalla derrota1_11: 4743345028585769373
+      pantalla derrota1_12: -2991912888831987090
+      pantalla derrota1_13: 218833266388561615
+      pantalla derrota1_14: -5096739864496170376
+      pantalla derrota1_15: -1731782204486990603
+      pantalla derrota1_16: -2848526767695519530
+      pantalla derrota1_17: -3527294082939738980
+      pantalla derrota1_18: 4402364558022639029
+      pantalla derrota1_19: 3778297854700413829
+      pantalla derrota1_2: 6519772200905674703
+      pantalla derrota1_20: -3236290190591503515
+      pantalla derrota1_21: -5029374210672937214
+      pantalla derrota1_22: -2436961135650067994
+      pantalla derrota1_23: -856973693057540013
+      pantalla derrota1_24: 5179079268266490877
+      pantalla derrota1_25: 3272820199642930175
+      pantalla derrota1_26: 2850427282336897711
+      pantalla derrota1_27: 3962720547124207700
+      pantalla derrota1_28: -5587508807488723550
+      pantalla derrota1_29: -3275243859547085866
+      pantalla derrota1_3: -5149887194416451330
+      pantalla derrota1_30: -1972688871016206028
+      pantalla derrota1_31: 8775605833066008813
+      pantalla derrota1_32: 5768967998826015412
+      pantalla derrota1_33: 5937608570871293623
+      pantalla derrota1_34: 5610474066066172031
+      pantalla derrota1_35: 8130701745804204661
+      pantalla derrota1_36: -7789934498366158639
+      pantalla derrota1_37: 5376053688489644246
+      pantalla derrota1_38: 2887802720679170095
+      pantalla derrota1_39: 8891093536658924382
+      pantalla derrota1_4: -1178801205382339818
+      pantalla derrota1_40: 1790067287549760751
+      pantalla derrota1_41: -2542212744645341881
+      pantalla derrota1_42: -4746513683780267667
+      pantalla derrota1_43: 3846247322281753876
+      pantalla derrota1_44: -6265986835577698084
+      pantalla derrota1_45: -2448179106376451450
+      pantalla derrota1_46: -5753302926585018025
+      pantalla derrota1_47: -513802196215301657
+      pantalla derrota1_48: -7802484216655519314
+      pantalla derrota1_49: -4037028617475811287
+      pantalla derrota1_5: -5837810036798788704
+      pantalla derrota1_50: -1210163461379818768
+      pantalla derrota1_51: -1018930215345700454
+      pantalla derrota1_52: 6350050720156012207
+      pantalla derrota1_53: 6796782753638544711
+      pantalla derrota1_54: 1250695316043382416
+      pantalla derrota1_55: -8490990423947002469
+      pantalla derrota1_56: 7945573086898135603
+      pantalla derrota1_57: 4157372250512415511
+      pantalla derrota1_58: -4711452249776180184
+      pantalla derrota1_59: -2296660467362523425
+      pantalla derrota1_6: -9206202560711083007
+      pantalla derrota1_60: 2124406737605275769
+      pantalla derrota1_61: -1722492706228591176
+      pantalla derrota1_62: 1413031786807164419
+      pantalla derrota1_63: -3608601998166562846
+      pantalla derrota1_64: 6317825169176680272
+      pantalla derrota1_65: -6165127568648274069
+      pantalla derrota1_66: 6232149700025042765
+      pantalla derrota1_67: -6075361108246851061
+      pantalla derrota1_7: 7958620650427292079
+      pantalla derrota1_8: -7563762063907798876
+      pantalla derrota1_9: 7005773127883756771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

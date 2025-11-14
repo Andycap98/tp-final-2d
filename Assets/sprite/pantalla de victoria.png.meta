@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 695725beb26a3cc45b9382ec2d8cbf60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2089318192214901155
+    second: pantalla de victoria_0
+  - first:
+      213: 8537024912606901949
+    second: pantalla de victoria_1
+  - first:
+      213: 1455572431365535379
+    second: pantalla de victoria_2
+  - first:
+      213: 7932845847182119175
+    second: pantalla de victoria_3
+  - first:
+      213: -2146570400248447583
+    second: pantalla de victoria_4
+  - first:
+      213: 5666660835321597449
+    second: pantalla de victoria_5
+  - first:
+      213: 8177524171818337083
+    second: pantalla de victoria_6
+  - first:
+      213: 4382682775313213572
+    second: pantalla de victoria_7
+  - first:
+      213: 1960786309535262269
+    second: pantalla de victoria_8
+  - first:
+      213: -4762171363845318569
+    second: pantalla de victoria_9
+  - first:
+      213: -8262673348311784478
+    second: pantalla de victoria_10
+  - first:
+      213: -7687494914664098231
+    second: pantalla de victoria_11
+  - first:
+      213: -3718484354304107842
+    second: pantalla de victoria_12
+  - first:
+      213: 4136777215550863690
+    second: pantalla de victoria_13
+  - first:
+      213: 7551926644167953751
+    second: pantalla de victoria_14
+  - first:
+      213: -1603529598338865680
+    second: pantalla de victoria_15
+  - first:
+      213: 3082623598920552299
+    second: pantalla de victoria_16
+  - first:
+      213: 4824069082907265183
+    second: pantalla de victoria_17
+  - first:
+      213: -8241002232052941230
+    second: pantalla de victoria_18
+  - first:
+      213: -7532298447363220601
+    second: pantalla de victoria_19
+  - first:
+      213: 6195158970933123157
+    second: pantalla de victoria_20
+  - first:
+      213: -3362291607417894998
+    second: pantalla de victoria_21
+  - first:
+      213: -8424907483375066155
+    second: pantalla de victoria_22
+  - first:
+      213: -7103555464571810122
+    second: pantalla de victoria_23
+  - first:
+      213: 1421684183166227994
+    second: pantalla de victoria_24
+  - first:
+      213: -7740253894764787114
+    second: pantalla de victoria_25
+  - first:
+      213: -5456274871241768079
+    second: pantalla de victoria_26
+  - first:
+      213: -500061455169598653
+    second: pantalla de victoria_27
+  - first:
+      213: 2437794479310039923
+    second: pantalla de victoria_28
+  - first:
+      213: 8890607337189780772
+    second: pantalla de victoria_29
+  - first:
+      213: 3878372436000210251
+    second: pantalla de victoria_30
+  - first:
+      213: -2346900144233460923
+    second: pantalla de victoria_31
+  - first:
+      213: 4676767333227793382
+    second: pantalla de victoria_32
+  - first:
+      213: 7021309452234199125
+    second: pantalla de victoria_33
+  - first:
+      213: -7811386265667271658
+    second: pantalla de victoria_34
+  - first:
+      213: -795703670479050198
+    second: pantalla de victoria_35
+  - first:
+      213: 4041242910543763044
+    second: pantalla de victoria_36
+  - first:
+      213: 4604544251958195796
+    second: pantalla de victoria_37
+  - first:
+      213: 6841242230759200710
+    second: pantalla de victoria_38
+  - first:
+      213: 7646835774311939327
+    second: pantalla de victoria_39
+  - first:
+      213: 3281248823627621578
+    second: pantalla de victoria_40
+  - first:
+      213: -8084874095624411683
+    second: pantalla de victoria_41
+  - first:
+      213: -237224910499837278
+    second: pantalla de victoria_42
+  - first:
+      213: -9161040155588575081
+    second: pantalla de victoria_43
+  - first:
+      213: 4088653679547657518
+    second: pantalla de victoria_44
+  - first:
+      213: 2509173874137072863
+    second: pantalla de victoria_45
+  - first:
+      213: -5748490936340967895
+    second: pantalla de victoria_46
+  - first:
+      213: -3161902352898500723
+    second: pantalla de victoria_47
+  - first:
+      213: 6643596412145076542
+    second: pantalla de victoria_48
+  - first:
+      213: -5340736710467429453
+    second: pantalla de victoria_49
+  - first:
+      213: -7778033178457559462
+    second: pantalla de victoria_50
+  - first:
+      213: 2338033617791780013
+    second: pantalla de victoria_51
+  - first:
+      213: 6011194622237269580
+    second: pantalla de victoria_52
+  - first:
+      213: 1457662406914034411
+    second: pantalla de victoria_53
+  - first:
+      213: 6808473433272202736
+    second: pantalla de victoria_54
+  - first:
+      213: 2880258737478215301
+    second: pantalla de victoria_55
+  - first:
+      213: -6432103947310711116
+    second: pantalla de victoria_56
+  - first:
+      213: -5854517416330273409
+    second: pantalla de victoria_57
+  - first:
+      213: -1864862696682744315
+    second: pantalla de victoria_58
+  - first:
+      213: 6036536586202045706
+    second: pantalla de victoria_59
+  - first:
+      213: 7422719337335463280
+    second: pantalla de victoria_60
+  - first:
+      213: 858051324283255471
+    second: pantalla de victoria_61
+  - first:
+      213: 9079540663167864998
+    second: pantalla de victoria_62
+  - first:
+      213: -6204360097511424554
+    second: pantalla de victoria_63
+  - first:
+      213: 7978698914448816979
+    second: pantalla de victoria_64
+  - first:
+      213: 3302750558288171535
+    second: pantalla de victoria_65
+  - first:
+      213: 7532405886273956280
+    second: pantalla de victoria_66
+  - first:
+      213: -3132683771373289095
+    second: pantalla de victoria_67
+  - first:
+      213: 6256817159235353108
+    second: pantalla de victoria_68
+  - first:
+      213: -5036696527347956283
+    second: pantalla de victoria_69
+  - first:
+      213: 5990105966328443221
+    second: pantalla de victoria_70
+  - first:
+      213: -4266891759161339179
+    second: pantalla de victoria_71
+  - first:
+      213: 3241437315479906824
+    second: pantalla de victoria_72
+  - first:
+      213: -8989813099936235910
+    second: pantalla de victoria_73
+  - first:
+      213: -966499095070642205
+    second: pantalla de victoria_74
+  - first:
+      213: 5827054518096422273
+    second: pantalla de victoria_75
+  - first:
+      213: -6244643507399752046
+    second: pantalla de victoria_76
+  - first:
+      213: -7888374083974703052
+    second: pantalla de victoria_77
+  - first:
+      213: 3016754350989317223
+    second: pantalla de victoria_78
+  - first:
+      213: -3429641730128206207
+    second: pantalla de victoria_79
+  - first:
+      213: 8706687339736135766
+    second: pantalla de victoria_80
+  - first:
+      213: -4617245924078812579
+    second: pantalla de victoria_81
+  - first:
+      213: 1634641054308871175
+    second: pantalla de victoria_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pantalla de victoria_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 587
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10bbd73dfbefc10800000000000000
+      internalID: 2089318192214901155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6389a4dea997670800000000000000
+      internalID: 8537024912606901949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1286
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396f4641a6b333410800000000000000
+      internalID: 1455572431365535379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1354
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701193b9441271e60800000000000000
+      internalID: 7932845847182119175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb2df0899d532e0800000000000000
+      internalID: -2146570400248447583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1353
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e46f7a10604ae40800000000000000
+      internalID: 5666660835321597449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1395
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33076b68e66c7170800000000000000
+      internalID: 8177524171818337083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48864c183ca62dc30800000000000000
+      internalID: 4382682775313213572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d366c4482cc163b10800000000000000
+      internalID: 1960786309535262269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758567a206e59edb0800000000000000
+      internalID: -4762171363845318569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e9c20e56155d80800000000000000
+      internalID: -8262673348311784478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94613deea18805590800000000000000
+      internalID: -7687494914664098231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1180
+        width: 150
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba1bde5e2a456cc0800000000000000
+      internalID: -3718484354304107842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1443
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49b6dfb5f8c86930800000000000000
+      internalID: 4136777215550863690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1177
+        width: 159
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d40736545ddc860800000000000000
+      internalID: 7551926644167953751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1400
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ef20835e1fb9e0800000000000000
+      internalID: -1603529598338865680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1327
+        width: 308
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f45eda4dda7ca20800000000000000
+      internalID: 3082623598920552299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98c1aa954982f240800000000000000
+      internalID: 4824069082907265183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 877
+        width: 274
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e7845f12412ad80800000000000000
+      internalID: -8241002232052941230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1411
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b50be4876e77790800000000000000
+      internalID: -7532298447363220601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1403
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581b8db240a9f550800000000000000
+      internalID: 6195158970933123157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_21
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1403
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa74494e89db651d0800000000000000
+      internalID: -3362291607417894998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1384
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d326ebe747b41b80800000000000000
+      internalID: -8424907483375066155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_23
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1369
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be89e3f0f91b6d90800000000000000
+      internalID: -7103555464571810122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1286
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161a607b36dab310800000000000000
+      internalID: 1421684183166227994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1290
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0633a718159490800000000000000
+      internalID: -7740253894764787114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1286
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1738eb6c9ea6744b0800000000000000
+      internalID: -5456274871241768079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1259
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b40c681cc6f09f0800000000000000
+      internalID: -500061455169598653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37beea6b929c4d120800000000000000
+      internalID: 2437794479310039923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1024
+        height: 1238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dadaac448c16b70800000000000000
+      internalID: 8890607337189780772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1210
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d757a9e2fb2d530800000000000000
+      internalID: 3878372436000210251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1111
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc6a3d0c22e6fd0800000000000000
+      internalID: -2346900144233460923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1019
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb813a6c1737e040800000000000000
+      internalID: 4676767333227793382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1016
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550138e0fb3b07160800000000000000
+      internalID: 7021309452234199125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_34
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 936
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614898fe391689390800000000000000
+      internalID: -7811386265667271658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_35
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 731
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a2f9e3ab715f4f0800000000000000
+      internalID: -795703670479050198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 631
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466d6060401651830800000000000000
+      internalID: 4041242910543763044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 535
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456f88ae990a6ef30800000000000000
+      internalID: 4604544251958195796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_38
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79dcaff89f0fe50800000000000000
+      internalID: 6841242230759200710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_39
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 431
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcbc9f3f940f1a60800000000000000
+      internalID: 7646835774311939327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_40
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 415
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42ef79b66598d20800000000000000
+      internalID: 3281248823627621578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_41
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 311
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ac8478d1cccf80800000000000000
+      internalID: -8084874095624411683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_42
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 143
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa88c5633535bcf0800000000000000
+      internalID: -237224910499837278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_43
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 93
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790cd0904827dd080800000000000000
+      internalID: -9161040155588575081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 79
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2803ebd0ddb830800000000000000
+      internalID: 4088653679547657518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 80
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd481a7285062d220800000000000000
+      internalID: 2509173874137072863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e08d043f14930b0800000000000000
+      internalID: -5748490936340967895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875301009aae14d0800000000000000
+      internalID: -3161902352898500723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3987f0dcbbc23c50800000000000000
+      internalID: 6643596412145076542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb53bd1244e1e5b0800000000000000
+      internalID: -5340736710467429453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ea5d2b800ee0490800000000000000
+      internalID: -7778033178457559462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4866d103d527020800000000000000
+      internalID: 2338033617791780013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 80
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed03609ad0c6350800000000000000
+      internalID: 6011194622237269580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_53
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 80
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea4d8e6c38aa3410800000000000000
+      internalID: 1457662406914034411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 80
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5bfd4c38e8c7e50800000000000000
+      internalID: 6808473433272202736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586aa9cbf0cb8f720800000000000000
+      internalID: 2880258737478215301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be3826e9839cb6a0800000000000000
+      internalID: -6432103947310711116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 71
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ddb4cad6390cea0800000000000000
+      internalID: -5854517416330273409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 79
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5061951024dae16e0800000000000000
+      internalID: -1864862696682744315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd83eca0616c350800000000000000
+      internalID: 6036536586202045706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_60
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d9d49f8ebc20760800000000000000
+      internalID: 7422719337335463280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_61
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 80
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaf4fe122968eb00800000000000000
+      internalID: 858051324283255471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_62
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0d5dfa022010e70800000000000000
+      internalID: 9079540663167864998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd39390d5fa5e9a0800000000000000
+      internalID: -6204360097511424554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b3485c3680abe60800000000000000
+      internalID: 7978698914448816979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_65
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025d70522ab5dd20800000000000000
+      internalID: 3302750558288171535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_66
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ab63ce3b788860800000000000000
+      internalID: 7532405886273956280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_67
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710aa525b87684d0800000000000000
+      internalID: -3132683771373289095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_68
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41abac86e0ea4d650800000000000000
+      internalID: 6256817159235353108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_69
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c54bf5a13f0a1ab0800000000000000
+      internalID: -5036696527347956283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_70
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 79
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55174f1b3a1212350800000000000000
+      internalID: 5990105966328443221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_71
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d295205d84f8c4c0800000000000000
+      internalID: -4266891759161339179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_72
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a20e68016ebfc20800000000000000
+      internalID: 3241437315479906824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_73
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb52d9d94cd3380800000000000000
+      internalID: -8989813099936235910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_74
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efe39a913e4692f0800000000000000
+      internalID: -966499095070642205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_75
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185e8fd063bddd050800000000000000
+      internalID: 5827054518096422273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_76
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2960d78c0d19659a0800000000000000
+      internalID: -6244643507399752046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_77
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 79
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385a45a09dd68290800000000000000
+      internalID: -7888374083974703052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_78
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 77
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7641559491aadd920800000000000000
+      internalID: 3016754350989317223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_79
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 79
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1862ad874077760d0800000000000000
+      internalID: -3429641730128206207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_80
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fc57610e54d870800000000000000
+      internalID: 8706687339736135766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_81
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 77
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5289a69b4f3cefb0800000000000000
+      internalID: -4617245924078812579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla de victoria_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 58
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ca951d0696fa610800000000000000
+      internalID: 1634641054308871175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pantalla de victoria_0: 2089318192214901155
+      pantalla de victoria_1: 8537024912606901949
+      pantalla de victoria_10: -8262673348311784478
+      pantalla de victoria_11: -7687494914664098231
+      pantalla de victoria_12: -3718484354304107842
+      pantalla de victoria_13: 4136777215550863690
+      pantalla de victoria_14: 7551926644167953751
+      pantalla de victoria_15: -1603529598338865680
+      pantalla de victoria_16: 3082623598920552299
+      pantalla de victoria_17: 4824069082907265183
+      pantalla de victoria_18: -8241002232052941230
+      pantalla de victoria_19: -7532298447363220601
+      pantalla de victoria_2: 1455572431365535379
+      pantalla de victoria_20: 6195158970933123157
+      pantalla de victoria_21: -3362291607417894998
+      pantalla de victoria_22: -8424907483375066155
+      pantalla de victoria_23: -7103555464571810122
+      pantalla de victoria_24: 1421684183166227994
+      pantalla de victoria_25: -7740253894764787114
+      pantalla de victoria_26: -5456274871241768079
+      pantalla de victoria_27: -500061455169598653
+      pantalla de victoria_28: 2437794479310039923
+      pantalla de victoria_29: 8890607337189780772
+      pantalla de victoria_3: 7932845847182119175
+      pantalla de victoria_30: 3878372436000210251
+      pantalla de victoria_31: -2346900144233460923
+      pantalla de victoria_32: 4676767333227793382
+      pantalla de victoria_33: 7021309452234199125
+      pantalla de victoria_34: -7811386265667271658
+      pantalla de victoria_35: -795703670479050198
+      pantalla de victoria_36: 4041242910543763044
+      pantalla de victoria_37: 4604544251958195796
+      pantalla de victoria_38: 6841242230759200710
+      pantalla de victoria_39: 7646835774311939327
+      pantalla de victoria_4: -2146570400248447583
+      pantalla de victoria_40: 3281248823627621578
+      pantalla de victoria_41: -8084874095624411683
+      pantalla de victoria_42: -237224910499837278
+      pantalla de victoria_43: -9161040155588575081
+      pantalla de victoria_44: 4088653679547657518
+      pantalla de victoria_45: 2509173874137072863
+      pantalla de victoria_46: -5748490936340967895
+      pantalla de victoria_47: -3161902352898500723
+      pantalla de victoria_48: 6643596412145076542
+      pantalla de victoria_49: -5340736710467429453
+      pantalla de victoria_5: 5666660835321597449
+      pantalla de victoria_50: -7778033178457559462
+      pantalla de victoria_51: 2338033617791780013
+      pantalla de victoria_52: 6011194622237269580
+      pantalla de victoria_53: 1457662406914034411
+      pantalla de victoria_54: 6808473433272202736
+      pantalla de victoria_55: 2880258737478215301
+      pantalla de victoria_56: -6432103947310711116
+      pantalla de victoria_57: -5854517416330273409
+      pantalla de victoria_58: -1864862696682744315
+      pantalla de victoria_59: 6036536586202045706
+      pantalla de victoria_6: 8177524171818337083
+      pantalla de victoria_60: 7422719337335463280
+      pantalla de victoria_61: 858051324283255471
+      pantalla de victoria_62: 9079540663167864998
+      pantalla de victoria_63: -6204360097511424554
+      pantalla de victoria_64: 7978698914448816979
+      pantalla de victoria_65: 3302750558288171535
+      pantalla de victoria_66: 7532405886273956280
+      pantalla de victoria_67: -3132683771373289095
+      pantalla de victoria_68: 6256817159235353108
+      pantalla de victoria_69: -5036696527347956283
+      pantalla de victoria_7: 4382682775313213572
+      pantalla de victoria_70: 5990105966328443221
+      pantalla de victoria_71: -4266891759161339179
+      pantalla de victoria_72: 3241437315479906824
+      pantalla de victoria_73: -8989813099936235910
+      pantalla de victoria_74: -966499095070642205
+      pantalla de victoria_75: 5827054518096422273
+      pantalla de victoria_76: -6244643507399752046
+      pantalla de victoria_77: -7888374083974703052
+      pantalla de victoria_78: 3016754350989317223
+      pantalla de victoria_79: -3429641730128206207
+      pantalla de victoria_8: 1960786309535262269
+      pantalla de victoria_80: 8706687339736135766
+      pantalla de victoria_81: -4617245924078812579
+      pantalla de victoria_82: 1634641054308871175
+      pantalla de victoria_9: -4762171363845318569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
