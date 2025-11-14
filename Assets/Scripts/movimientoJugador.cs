@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class movimientoJugador : MonoBehaviour
 {
+
+  public  GameObject balaprefab; //prefab de la bala
+    public Transform puntoDisparo; //punto desde donde se dispara la bala
+
     // crear un atributo velocidad de tipo float
     [SerializeField] float velocidad = 5.0f;
     Rigidbody2D rb;//sirve para controlar el movimiento del jugador
@@ -19,7 +23,11 @@ public class movimientoJugador : MonoBehaviour
         float movimientoX = Input.GetAxisRaw("Horizontal");//obtener el valor del eje horizontal
         float movimientoY = Input.GetAxisRaw("Vertical");//obtener el valor del eje vertical
         direccion = new Vector2(movimientoX, movimientoY).normalized;//normalizar el vector para que no se mueva más rápido en diagonal
-        
+        if (Input.GetKeyDown(KeyCode.Space)) //si se presiona la barra espaciadora
+        {
+            Instantiate(balaprefab, puntoDisparo.position,Quaternion.identity); //instanciar la bala en el punto de disparo
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision) //cuando obj entre en colision con otro obj 
