@@ -6,6 +6,8 @@ TagManager:
   tags:
   - spawner
   - enemigo
+  - meteorito
+  - asteroide
   layers:
   - Default
   - TransparentFX

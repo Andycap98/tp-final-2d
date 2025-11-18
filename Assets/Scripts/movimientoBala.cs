@@ -20,10 +20,19 @@ public class movimientoBala : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("enemigo")) // Si la bala colisiona con un enemigo
+        if(collision.CompareTag("meteorito")) // Si la bala colisiona con un enemigo
         {
             Destroy(collision.gameObject); // Destruir el enemigo
             Destroy(gameObject); // Destruir la bala
+            contadorDeDestrucciones.sumarMeteoritos();
         }
+
+        if (collision.CompareTag("asteroide"))
+        {
+            Destroy(collision.gameObject);
+            Destroy(gameObject);
+            contadorDeDestrucciones.sumarAsteroides();
+        }
+
     }
 }

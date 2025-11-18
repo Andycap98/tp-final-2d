@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3312776397381729070}
   m_Layer: 0
   m_Name: asteroide 1_0
-  m_TagString: enemigo
+  m_TagString: asteroide
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 15
   m_Sprite: {fileID: 3905053769163394806, guid: 3c4942cc7edb9cb4bab535b7db1736a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
