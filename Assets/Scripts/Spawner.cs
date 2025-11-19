@@ -34,6 +34,7 @@ public class Spawner : MonoBehaviour
         {
             Spawn(); // Llama a la función Spawn para crear un nuevo meteorito}
             timer = 0f; // Reinicia el temporizador
+            spawninterval = Random.Range(0.1f, 2f); // Actualiza el intervalo de spawn a un valor aleatorio entre 1 y 3 segundos
         }
     }
 }
