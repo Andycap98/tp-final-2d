@@ -20,6 +20,7 @@ public class movimientoJugador : MonoBehaviour
     private int vidasRestantes;
     private float tiempoRestante;
     private bool juegoTerminado;
+    private Animator animator;
     void Start()
     {
         vidasRestantes = maxVidas;
@@ -36,6 +37,8 @@ public class movimientoJugador : MonoBehaviour
 
         ActualizarVidasUI();
         ActualizarTiempoUI();
+
+        animator = GetComponent<Animator>();
     }
 
     private void ActualizarVidasUI()
@@ -67,7 +70,9 @@ public class movimientoJugador : MonoBehaviour
         {
             Instantiate(balaprefab, puntoDisparo.position,Quaternion.identity); //instanciar la bala en el punto de disparo
         }
-
+       if (movimientoY > 0) { animator.SetInteger("estado", 1); } //arriba
+       if (movimientoY < 0) { animator.SetInteger("estado", -1); } //abajo
+         if (movimientoY == 0) { animator.SetInteger("estado", 0); } //quieto
     }
 
     private void OnTriggerEnter2D(Collider2D collision) //cuando obj entre en colision con otro obj 
