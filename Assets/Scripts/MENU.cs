@@ -7,6 +7,15 @@ public class MENU : MonoBehaviour
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Juego");
     }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
+
+    public void controles() {      
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Controles");
+    }
     public void StartToLevel2()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("JuegoNivel2");

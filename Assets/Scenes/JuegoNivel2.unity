@@ -157,7 +157,7 @@ MonoBehaviour:
   - {fileID: 171954836}
   meteoritoPrefab: {fileID: 5087755070611491365, guid: 31cbe6f5679b15844bca16174ff4ac9a, type: 3}
   asteroidePrefab: {fileID: 5973658216168544955, guid: b7a2e0823581cb440ba6658b502b563e, type: 3}
-  spawninterval: 1.5
+  spawninterval: 1
 --- !u!4 &86972761
 Transform:
   m_ObjectHideFlags: 0
@@ -1281,6 +1281,7 @@ MonoBehaviour:
   velocidad: 5
   panelgameover: {fileID: 1414558926}
   panelganaste: {fileID: 838409890}
+  puntaje: {fileID: 0}
   maxVidas: 3
   tiempoJuego: 30
 --- !u!50 &1222613791
@@ -2080,9 +2081,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1222613790}
-        m_TargetAssemblyTypeName: movimientoJugador, Assembly-CSharp
-        m_MethodName: RestartGame
+      - m_Target: {fileID: 2031038714}
+        m_TargetAssemblyTypeName: MENU, Assembly-CSharp
+        m_MethodName: StartToLevel2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2309,6 +2310,7 @@ GameObject:
   - component: {fileID: 2031038712}
   - component: {fileID: 2031038711}
   - component: {fileID: 2031038710}
+  - component: {fileID: 2031038714}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2402,6 +2404,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &2031038714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2031038709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fd98c408ca584469d998405b32d648, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MENU
 --- !u!1 &2077380078
 GameObject:
   m_ObjectHideFlags: 0

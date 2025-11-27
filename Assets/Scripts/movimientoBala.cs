@@ -24,14 +24,14 @@ public class movimientoBala : MonoBehaviour
         {
             Destroy(collision.gameObject); // Destruir el enemigo
             Destroy(gameObject); // Destruir la bala
-            contadorDeDestrucciones.sumarMeteoritos();
+            contadorDeDestrucciones.sumarScore();
         }
 
         if (collision.CompareTag("asteroide"))
         {
             Destroy(collision.gameObject);
             Destroy(gameObject);
-            contadorDeDestrucciones.sumarAsteroides();
+            contadorDeDestrucciones.sumarScore();
         }
 
     }

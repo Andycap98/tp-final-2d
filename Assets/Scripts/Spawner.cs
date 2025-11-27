@@ -8,9 +8,12 @@ public class Spawner : MonoBehaviour
     [SerializeField] GameObject meteoritoPrefab;
     [SerializeField] GameObject asteroidePrefab;
     public float spawninterval = 1.5f;         // definimos el intervalo de tiempo entre spawns
-    private float timer = 0f;                  // definimos un temporizador para controlar el tiempo transcurrido
 
-    
+
+    private void Start()
+    {
+        InvokeRepeating("Spawn", 2.0f, spawninterval); // llama a la funcio spwn , cuanddo va a empezar y cada cuanto tiempo
+    }
     void Spawn()
     {
         int randomIndex = Random.Range(0, spawnPoints.Length);
@@ -26,17 +29,7 @@ public class Spawner : MonoBehaviour
     }
 
 
-    private void Update()
-    {
-        timer += Time.deltaTime; // Incrementa el temporizador con el tiempo transcurrido desde el último frame
-        if (timer > spawninterval)
-
-        {
-            Spawn(); // Llama a la función Spawn para crear un nuevo meteorito}
-            timer = 0f; // Reinicia el temporizador
-            spawninterval = Random.Range(0.1f, 2f); // Actualiza el intervalo de spawn a un valor aleatorio entre 1 y 3 segundos
-        }
-    }
+    
 }
 
 

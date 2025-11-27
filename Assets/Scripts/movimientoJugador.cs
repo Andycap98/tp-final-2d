@@ -15,6 +15,7 @@ public class movimientoJugador : MonoBehaviour
     Vector2 direccion;
     public GameObject panelgameover;
     public GameObject panelganaste;
+    public TextMeshProUGUI puntaje;
     public int maxVidas= 3;
     public float tiempoJuego = 30f;
     private int vidasRestantes;
@@ -39,8 +40,18 @@ public class movimientoJugador : MonoBehaviour
         ActualizarTiempoUI();
 
         animator = GetComponent<Animator>();
+
+        contadorDeDestrucciones.OnScoreChanged += ActualizarPuntajeUI;
     }
 
+    private void ActualizarPuntajeUI()
+    {
+        if (puntaje != null)
+        {
+            int score = contadorDeDestrucciones.getScore();
+            puntaje.text = "Puntaje: " + score.ToString();
+        }
+    }
     private void ActualizarVidasUI()
     {   
         if (vidas != null) 

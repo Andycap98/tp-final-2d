@@ -1,24 +1,27 @@
 using UnityEngine;
 
-public static class contadorDeDestrucciones 
+public static class contadorDeDestrucciones
+
 {
-    public static void sumarAsteroides() 
+    private static int score = 0; //variable para almacenar el score actual
+    public static event System.Action OnScoreChanged; //evento para notificar cambios en el score
+
+    
+
+    public static void sumarScore()
     {
-        int cantidad = PlayerPrefs.GetInt("asteroides", 0);
-        cantidad++;
-        PlayerPrefs.SetInt("asteroides", cantidad);
+        score = PlayerPrefs.GetInt("score", 0);
+        score++;
+        PlayerPrefs.SetInt("score", score);
         PlayerPrefs.Save();
-    
-    
+        OnScoreChanged?.Invoke(); //notificar a los scripts que estan escuchando a esta variable que el score ha cambiado
+
+
     }
 
-    public static void sumarMeteoritos()
+
+    public static int getScore() //metodo para obtener el score actual
     {
-        int cantidad = PlayerPrefs.GetInt("meteoritos", 0);
-        cantidad++;
-        PlayerPrefs.SetInt("meteoritos", cantidad);
-        PlayerPrefs.Save();
-
-
+        return score;
     }
 }
