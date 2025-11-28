@@ -1284,6 +1284,7 @@ MonoBehaviour:
   puntaje: {fileID: 0}
   maxVidas: 3
   tiempoJuego: 30
+  ganarPorTiempo: 1
 --- !u!50 &1222613791
 Rigidbody2D:
   serializedVersion: 5

@@ -2,28 +2,38 @@ using UnityEngine;
 
 public class movimientoBala : MonoBehaviour
 {
-   public float velocidadBala = 10f; // Velocidad de la bala
+    public float velocidadBala = 10f; // Velocidad de la bala
 
-   
-    
-    // Update is called once per frame
+    // NUEVO: dirección configurable (por defecto hacia la derecha)
+    private Vector2 direccion = Vector2.right;
+
+    // Este método lo llama movimientoJugador justo después de instanciar la bala
+    public void SetDireccion(Vector2 nuevaDireccion)
+    {
+        if (nuevaDireccion != Vector2.zero)
+            direccion = nuevaDireccion.normalized;
+        else
+            direccion = Vector2.right; // seguridad por si viene cero
+    }
+
     void Update()
     {
-        transform.Translate(Vector2.right * velocidadBala * Time.deltaTime); // Mover la bala hacia la derecha
-        if(transform.position.x > 20f) // Si la bala sale de la pantalla
+        // Mover la bala en la dirección actual
+        transform.Translate(direccion * velocidadBala * Time.deltaTime);
+
+        // Si se va demasiado lejos, destruirla (para evitar basura en la escena)
+        if (transform.position.magnitude > 30f)
         {
-            Destroy(gameObject); // Destruir la bala
+            Destroy(gameObject);
         }
-
-
     }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("meteorito")) // Si la bala colisiona con un enemigo
+        if (collision.CompareTag("meteorito"))
         {
-            Destroy(collision.gameObject); // Destruir el enemigo
-            Destroy(gameObject); // Destruir la bala
+            Destroy(collision.gameObject);
+            Destroy(gameObject);
             contadorDeDestrucciones.sumarScore();
         }
 
@@ -33,6 +43,5 @@ public class movimientoBala : MonoBehaviour
             Destroy(gameObject);
             contadorDeDestrucciones.sumarScore();
         }
-
     }
 }

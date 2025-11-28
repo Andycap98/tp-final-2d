@@ -594,7 +594,7 @@ Transform:
   m_GameObject: {fileID: 431354972}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.22, y: -2.84, z: 0}
+  m_LocalPosition: {x: 1.57, y: -2.13, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1795,6 +1795,7 @@ MonoBehaviour:
   puntaje: {fileID: 573557654}
   maxVidas: 3
   tiempoJuego: 30
+  ganarPorTiempo: 0
 --- !u!50 &1222613791
 Rigidbody2D:
   serializedVersion: 5
