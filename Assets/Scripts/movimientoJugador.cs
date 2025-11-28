@@ -23,7 +23,7 @@ public class movimientoJugador : MonoBehaviour
     private bool juegoTerminado;
     private Animator animator;
     void Start()
-    {
+    {   contadorDeDestrucciones.resetScore();//reiniciar el puntaje al iniciar el juego
         vidasRestantes = maxVidas;
         tiempoRestante = tiempoJuego;
         if (panelgameover != null)
@@ -49,7 +49,12 @@ public class movimientoJugador : MonoBehaviour
         if (puntaje != null)
         {
             int score = contadorDeDestrucciones.getScore();
+            Debug.Log("Puntaje actualizado: " + score);//imprime en la consola el puntaje actualizado
             puntaje.text = "Puntaje: " + score.ToString();
+            if (score >= 20 && tiempoRestante>0)
+            {
+                Victoria();
+            }
         }
     }
     private void ActualizarVidasUI()
@@ -73,7 +78,6 @@ public class movimientoJugador : MonoBehaviour
        
 
      ActualizarTiempoUI ();
-        if (tiempoRestante <= 0) Victoria();
         float movimientoX = Input.GetAxisRaw("Horizontal");//obtener el valor del eje horizontal
         float movimientoY = Input.GetAxisRaw("Vertical");//obtener el valor del eje vertical
         direccion = new Vector2(movimientoX, movimientoY).normalized;//normalizar el vector para que no se mueva más rápido en diagonal

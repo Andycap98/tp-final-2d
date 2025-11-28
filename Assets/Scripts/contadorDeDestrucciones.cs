@@ -24,4 +24,14 @@ public static class contadorDeDestrucciones
     {
         return score;
     }
+    public static void resetScore()
+    {
+        score = 0;
+        
+        PlayerPrefs.SetInt("score", score);
+        PlayerPrefs.Save();
+        
+
+
+    }
 }
