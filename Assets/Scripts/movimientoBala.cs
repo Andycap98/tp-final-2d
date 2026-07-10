@@ -32,16 +32,31 @@ public class movimientoBala : MonoBehaviour
     {
         if (collision.CompareTag("meteorito"))
         {
-            Destroy(collision.gameObject);
+            movimientodeObstaculos meteorito =
+                collision.GetComponent<movimientodeObstaculos>();
+
+            if (meteorito != null)
+            {
+                meteorito.RecibirDisparo();
+            }
+
             Destroy(gameObject);
             contadorDeDestrucciones.sumarScore();
         }
 
         if (collision.CompareTag("asteroide"))
         {
-            Destroy(collision.gameObject);
+            movimientodeObstaculos asteroide =
+                collision.GetComponent<movimientodeObstaculos>();
+
+            if (asteroide != null)
+            {
+                asteroide.RecibirDisparo();
+            }
+
             Destroy(gameObject);
             contadorDeDestrucciones.sumarScore();
         }
     }
 }
+    

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4937200004788770534}
   - component: {fileID: 3674563938128271186}
   - component: {fileID: 3312776397381729070}
+  - component: {fileID: 5275708435906815171}
   m_Layer: 0
   m_Name: asteroide 1_0
   m_TagString: asteroide
@@ -29,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 5973658216168544955}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.96, y: -2.5974, z: 0}
+  m_LocalPosition: {x: 4.81485, y: 1.26852, z: 0}
   m_LocalScale: {x: 0.35784784, y: 0.41563326, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -82,7 +83,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 15
-  m_Sprite: {fileID: 3905053769163394806, guid: 3c4942cc7edb9cb4bab535b7db1736a6, type: 3}
+  m_Sprite: {fileID: 5462451910053962593, guid: 86c1f2a52a1c15645a2899d42c2e2fd2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -154,17 +155,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -1.4299486, y: 1.8695143}
+  m_Offset: {x: -0.06320953, y: 0.19790971}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 7.91, y: 7.2}
+    oldSize: {x: 5.17, y: 5.09}
     newSize: {x: 7.91, y: 7.2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 5.0501027, y: 3.460971}
+  m_Size: {x: 4.7690897, y: 4.4727316}
   m_EdgeRadius: 0
 --- !u!114 &3312776397381729070
 MonoBehaviour:
@@ -179,3 +180,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::movimientodeObstaculos
   velocidad: 7
+--- !u!95 &5275708435906815171
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5973658216168544955}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9695d258e91658d4182b6b59be105c74, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
