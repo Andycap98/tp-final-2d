@@ -14,7 +14,7 @@ public class movimientoJugador : MonoBehaviour
     Vector2 direccion;
 
     // NUEVO: dirección de disparo según hacia dónde apunta la nave
-    private Vector2 direccionDisparo = Vector2.right;
+    //private Vector2 direccionDisparo = Vector2.right;
 
     public GameObject panelgameover;
     public GameObject panelganaste;
@@ -55,7 +55,7 @@ public class movimientoJugador : MonoBehaviour
         contadorDeDestrucciones.OnScoreChanged += ActualizarPuntajeUI;
 
         // por defecto, disparar hacia la derecha
-        direccionDisparo = Vector2.right;
+        //direccionDisparo = Vector2.right;
     }
 
     private void ActualizarPuntajeUI()
@@ -141,29 +141,25 @@ public class movimientoJugador : MonoBehaviour
         {
             GameObject bala = Instantiate(balaprefab, puntoDisparo.position, Quaternion.identity);
 
-            // pasar la dirección de disparo actual a la bala
             movimientoBala scriptBala = bala.GetComponent<movimientoBala>();
             if (scriptBala != null)
             {
-                scriptBala.SetDireccion(direccionDisparo);
+                scriptBala.SetDireccion(Vector2.right);
             }
         }
 
         // ANIMACIÓN + DIRECCIÓN DE DISPARO
         if (movimientoY > 0)
         {
-            animator.SetInteger("estado", 1);   // arriba
-            direccionDisparo = Vector2.up;      // disparar hacia arriba
+            animator.SetInteger("estado", 1);
         }
         else if (movimientoY < 0)
         {
-            animator.SetInteger("estado", -1);  // abajo
-            direccionDisparo = Vector2.down;    // disparar hacia abajo
+            animator.SetInteger("estado", -1);
         }
         else
         {
-            animator.SetInteger("estado", 0);   // quieto
-            direccionDisparo = Vector2.right;   // disparar hacia la derecha
+            animator.SetInteger("estado", 0);
         }
     }
 
