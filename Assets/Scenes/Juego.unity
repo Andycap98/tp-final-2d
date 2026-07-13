@@ -155,8 +155,8 @@ MonoBehaviour:
   - {fileID: 1358718433}
   - {fileID: 1367499500}
   - {fileID: 171954836}
-  meteoritoPrefab: {fileID: 5087755070611491365, guid: 31cbe6f5679b15844bca16174ff4ac9a, type: 3}
-  asteroidePrefab: {fileID: 5973658216168544955, guid: b7a2e0823581cb440ba6658b502b563e, type: 3}
+  meteoritoPrefab: {fileID: 6098903068066828795, guid: 31cbe6f5679b15844bca16174ff4ac9a, type: 3}
+  asteroidePrefab: {fileID: 4113019583875443933, guid: b7a2e0823581cb440ba6658b502b563e, type: 3}
   spawninterval: 0.5
 --- !u!4 &86972761
 Transform:
